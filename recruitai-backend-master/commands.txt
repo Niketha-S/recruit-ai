@@ -1,0 +1,1 @@
+ celery -A recruitai_backend worker -l info

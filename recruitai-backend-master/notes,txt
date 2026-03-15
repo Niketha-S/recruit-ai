@@ -1,0 +1,3 @@
+systemctl status rabbitmq-server
+https://www.cherryservers.com/blog/how-to-install-and-start-using-rabbitmq-on-ubuntu-22-04
+
